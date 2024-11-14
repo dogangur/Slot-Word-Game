@@ -1,0 +1,7 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#E6E6FA"/> <!-- Arka plan rengi beyaz -->
+    <stroke
+        android:width="2dp"
+        android:color="#000000"/> <!-- Çerçeve rengi siyah -->
+    <corners android:radius="4dp"/> <!-- Köşe yuvarlama -->
+</shape>

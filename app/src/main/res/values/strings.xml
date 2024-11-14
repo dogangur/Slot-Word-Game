@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SlotWordGame</string>
+    <string name="confirm_word">Kelimeyi Onayla</string>
+    <string name="next_turn">Sonraki Tur</string>
+    <string name="turn_count">Tur Sayısı: %1$d</string>
+    <string name="current_score">Güncel Skor: %1$d</string>
+    <string name="balance">Bakiye: %1$d</string>
+    <string name="turn_right">Tur Hakkı: %1$d</string>
+    <string name="target_score">Hedef Puan: %1$d</string>
+    <string name="letter_score">Harf Puanı: %1$d</string>
+    <string name="add_token">Jeton Ekle</string>
+    <string name="jeton_ekle">Jeton Ekle</string>
+    <string name="replay">Tekrar Oyna</string>
+    <string name="countdown_timer">Yeni tur için süre: %1$d sn</string>
+    <string name="initial_timer">00:00</string>
+    <string name="initial_turn_count">Tur Sayısı: 1</string>
+    <string name="initial_current_score">Güncel Skor: 0</string>
+    <string name="initial_balance">Bakiye: 0</string>
+    <string name="initial_turn_right">Tur Hakkı: 10</string>
+    <string name="initial_target_score">Hedef Puan: 100</string>
+    <string name="initial_letter_score">Harf Puanı: 0</string>
+</resources>
